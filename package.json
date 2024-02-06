@@ -2,6 +2,9 @@
   "name": "preview-mask",
   "packageManager": "yarn@4.1.0",
   "type": "module",
+  "scripts": {
+    "start": "yarn tsc && yarn node dist/preview-mask.js"
+  },
   "dependencies": {
     "bplist-creator": "^0.1.1",
     "bplist-parser": "^0.3.2",
