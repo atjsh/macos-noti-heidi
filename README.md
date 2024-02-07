@@ -1,3 +1,3 @@
 # 'Noti Heidi' for macOS
 
-**Noti Heidi** allows you to toggle macOS Notification Preview preference per app or globally — without accessing System Settings app.
+**Noti Heidi** let you hide or unhide macOS Notification Preview per app — without accessing System Settings app.
